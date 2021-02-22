@@ -1,0 +1,18 @@
+.img{
+  display: inline-block;
+  width: 320px;
+  height: 320px;
+  box-sizing: border-box;
+  border: 5px solid red;
+  margin: 20px;
+  border-radius: 50%;
+  object-fit: cover;
+
+}
+.img-top{
+  object-position: top;
+}
+.img-top2{
+  object-position: left;
+}
+*{box-sizing: border-box;}
